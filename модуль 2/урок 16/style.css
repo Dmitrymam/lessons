@@ -1,0 +1,15 @@
+p{
+    color: azure;
+}
+
+.text {
+    color: blue;
+}
+
+#text{
+    color: brown;
+}
+
+p{
+    color: blueviolet !important;
+}

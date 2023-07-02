@@ -1,0 +1,12 @@
+p.text-bold{
+    color: aquamarine;
+}
+
+.parent > p.child {
+    color: chartreuse;
+}
+
+body > a{
+color: black;
+text-decoration: none;
+}
